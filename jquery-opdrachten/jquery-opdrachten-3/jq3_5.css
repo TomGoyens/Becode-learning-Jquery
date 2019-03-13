@@ -1,0 +1,15 @@
+.squareSpace{
+  height: 500px;
+  width: 500px;
+  border: solid;
+  position: relative;
+  margin-left: 50%;
+  transform: translate(-50%, 0);
+}
+
+.square{
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  position: absolute;
+}
